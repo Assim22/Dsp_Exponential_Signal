@@ -1,5 +1,5 @@
 # Dsp_Exponential_Signal
-This is a simple project for Dsp to show the figure of Exponential signal . Find the project video on [YouTube](https://www.youtube.com/watch?v=I39Zn5ip_nQ)
+This is a simple project for Dsp to show the figure of Exponential signal . Find the project video on [YouTube](https://youtu.be/hwhiNH-LDyk)
 ```
 % Name Assim Abdelnour
 clc;
